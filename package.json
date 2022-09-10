@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "algorithm-datastructure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris097/algorithm-dataStructure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris097/algorithm-dataStructure/issues"
+  },
+  "homepage": "https://github.com/chris097/algorithm-dataStructure#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
